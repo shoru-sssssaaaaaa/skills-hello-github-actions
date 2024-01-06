@@ -11,4 +11,4 @@ jobs:
     steps:
     - name: test step
       run: |
-        echo "Post welcome comment"
+        echo "Post welcome comment - create pull request"
